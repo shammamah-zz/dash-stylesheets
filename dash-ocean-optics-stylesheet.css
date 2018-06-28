@@ -42,7 +42,7 @@
     padding-bottom: 25px;
     overflow: auto;
 }
-.option-box{
+#integration-time, #nscans-to-average, #continuous-strobe-toggle, #continuous-strobe-period, #light-source {
     width: 150px;
     position: static;
     float: left;
