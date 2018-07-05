@@ -90,6 +90,9 @@
     font-family: Helvetica, sans-serif;
     background-color: #bbbbbb;
 }
+::-webkit-scrollbar-track {
+    background: #bbbbbb;
+}
 #submit-button {
     font-family: Helvetica, sans-serif;
     font-size: 20px;
