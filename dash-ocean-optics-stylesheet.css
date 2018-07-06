@@ -108,7 +108,7 @@
     border-width: 1px;
     border-color: #2222ff;
     border-radius: 5px;
-    transition-duration: 1000ms;
+    transition-duration: 500ms;
 }
 #submit-button:hover {
     background-color: #bbbbbb;
