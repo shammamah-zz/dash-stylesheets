@@ -40,6 +40,7 @@
     position: relative;
     margin-top: 25px;
     overflow: auto;
+    padding-bottom:25px;
 }
 #integration-time, #nscans-to-average, #continuous-strobe-toggle, #continuous-strobe-period, #light-source {
     width: 150px;
