@@ -38,8 +38,7 @@
 }
 #controls {
     position: relative;
-    margin-top: 175px;
-    padding-bottom: 25px;
+    margin-top: 25px;
     overflow: auto;
 }
 #integration-time, #nscans-to-average, #continuous-strobe-toggle, #continuous-strobe-period, #light-source {
